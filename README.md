@@ -1,16 +1,25 @@
-## Hi there 👋
+# Jawher Ftiti
 
-<!--
-**joojaw/joojaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at OTH Regensburg | Intern at BMW Group
 
-Here are some ideas to get you started:
+- **Focus:** Data Analytics, Industrial IoT, Smart Factory, Cloud Integration
+- **Stack:** Python, SQL, C/C++, AWS S3, Streamlit, Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Key Projects
+
+- **[smart-factory-ai-platform](https://github.com/joojaw/smart-factory-ai-platform)**  
+  Industry 4.0 analytics platform for real-time KPI monitoring, predictive maintenance scoring, and AWS S3 data sync.
+  *(Python, Streamlit, SQLite, AWS boto3, Plotly)*
+
+- **[iot-smart-management-system](https://github.com/joojaw/iot-smart-management-system)**  
+  IoT architecture and data pipeline concept for sensor collection, edge processing, and cloud cost evaluation.
+  *(C++, IoT Architecture, Data Analytics, ERD Design)*
+
+---
+
+### Contact & Links
+
+- **LinkedIn:** [linkedin.com/in/jawher-ftiti](https://linkedin.com/in/jawher-ftiti)
+- **Email:** jawherftiti26@gmail.com
